@@ -5,7 +5,9 @@
     <title>El proyectico :):(:S:P</title>
 </head>
 <body>
+<button style="background-color: darkred">don't click me</button>
 <input placeholder='pepito' type="text"/>
+<button>CLICK ME</button>
 <?php
 echo "<h1>Hello world</h1>";
 for ($i = 0; $i < 10; $i++) {
