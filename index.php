@@ -5,6 +5,7 @@
     <title>El proyectico :):(:S:P</title>
 </head>
 <body>
+<button>Chocolate</button>
 <button>Click</button>
 <input placeholder='pepito' type="text"/>
 <button>CLICK ME</button>
