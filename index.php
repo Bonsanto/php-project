@@ -10,6 +10,7 @@ echo "<h1>Hello world</h1>";
 for ($i = 0; $i < 10; $i++) {
     echo "<h1>", $i, "</h1>";
     echo $i*2;
+    echo "<p> VIVA FIDEL</p>";
 }
 
 ?>
