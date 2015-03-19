@@ -5,6 +5,7 @@
     <title>El proyectico :):(:S:P</title>
 </head>
 <body>
+<button>Click</button>
 <input placeholder='pepito' type="text"/>
 <?php
 echo "<h1>Hello world</h1>";
